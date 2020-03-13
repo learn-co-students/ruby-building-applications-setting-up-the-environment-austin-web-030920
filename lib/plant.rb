@@ -1,3 +1,6 @@
+
+require_relative '../config/environment.rb'
+
 class Plant
   attr_accessor :garden, :name
 
